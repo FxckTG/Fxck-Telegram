@@ -26,7 +26,7 @@ class HelpMod(loader.Module):
         "name": "Help",
         "bad_module": "<b>🚫 <b>Module</b> <code>{}</code> <b>not found</b>",
         "single_mod_header": "📼 <b>{}</b>:",
-        "single_cmd": "\n▫️ <code>{}{}</code> 👉🏻 ",
+        "single_cmd": "\n ⭐ <code>{}{}</code> 👉🏻 ",
         "undoc_cmd": "🦥 No docs",
         "all_header": "👓 <b>{} mods available, {} hidden:</b>",
         "mod_tmpl": "\n{} <code>{}</code>",
@@ -45,13 +45,13 @@ class HelpMod(loader.Module):
     def __init__(self):
         self.config = loader.ModuleConfig(
             "core_emoji",
-            "▪️",
+            "⭐",
             lambda: "Core module bullet",
             "geek_emoji",
             "🕶",
             lambda: "Geek-only module bullet",
             "plain_emoji",
-            "▫️",
+            "⭐",
             lambda: "Plain module bullet"
         )
 
