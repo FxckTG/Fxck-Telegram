@@ -2,7 +2,7 @@
 
 <h2><img src="https://github.com/GeekTG/assets/raw/master/57-server-lineal.gif" align="center" width="45"> Installation</h2>
 
-<img src="https://ibb.co/SmN7W8J"></img>
+<img src="https://hostingkartinok.com/show-image.php?id=1656a5ecf395cba7119041a047364259"></img>
 
 <a href="https://cloud.okteto.com/#/deploy?repository=https://github.com/GeekTG/Friendly-Telegram"><img src="https://lilwonka.ml/temp/okteto.png" height="65"></a>
 
